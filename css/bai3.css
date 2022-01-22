@@ -1,0 +1,53 @@
+.c1 {
+    background-color: gray;
+    padding: 10px 10px;
+    display: flex;
+}
+
+.d1 {
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    color: gray;
+    font-size: xx-large;
+}
+
+.d2 {
+    background-color: aquamarine;
+    width: 600px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.d3 {
+    background-color: aquamarine;
+    width: 300px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.c4 {
+    display: flex;
+    justify-content: center;
+}
+
+.c2 {
+    display: flex;
+}
+
+.d4 {
+    background-color: aquamarine;
+    width: 290px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.d5 {
+    background-color: aquamarine;
+    width: 600px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
